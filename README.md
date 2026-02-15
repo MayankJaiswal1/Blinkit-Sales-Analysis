@@ -1,4 +1,6 @@
 # 🛒📊 Blinkit Sales Intelligence Dashboard  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 ### Advanced Retail Analytics | Power BI • Excel  
 
 > Transforming raw retail transactions into executive-grade business intelligence.
@@ -163,3 +165,14 @@ This project demonstrates:
 - 📈 Retail performance optimization  
 
 Built to reflect enterprise-level Business Intelligence standards.
+
+---
+
+## 👨‍💻 About the Author
+Hey, I’m Mayank, a Data Analyst & Tech Enthusiast.
+
+ ### 🚀 Stay Connected 
+
+💼 LinkedIn: [Mayank ](https://www.linkedin.com/in/mayank154/)
+- Let’s connect professionally and grow together.
+
