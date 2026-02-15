@@ -73,7 +73,7 @@ Total Sales = SUM(Sales)
 Average Sales = AVERAGE(Sales)
 Total Items = COUNTROWS('Blinkit Data')
 Average Rating = AVERAGE(Rating)
-
+``` 
 ---
 
 ## 🎨 Dashboard Design System
